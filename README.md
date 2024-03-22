@@ -69,7 +69,7 @@ After completing the assessments:
 - Invite the assessment reviewer to your private repository.
   - Go to your private repository on GitHub.
   - Click on "Settings" and then "Manage access".
-  - Click on "Invite a collaborator" and enter the reviewer's GitHub username or email.
+  - Click on "Invite a collaborator" and enter `mark-asymbl` aka https://github.com/mark-asymbl
 
 - Notify the assessment reviewer via email once you have completed the above steps, providing the link to your private submission repository.
 
