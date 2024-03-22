@@ -73,4 +73,4 @@ After completing the assessments:
 
 - Notify the assessment reviewer via email once you have completed the above steps, providing the link to your private submission repository.
 
-If you have any questions or encounter any issues during the submission process, please don't hesitate to reach out to the assessment reviewer for assistance.
+If you have any questions or encounter any issues during the submission process, please don't hesitate to reach out to us.
