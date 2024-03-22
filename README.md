@@ -1,4 +1,3 @@
-# backend_python_assessment
 # Take-Home Assessment for Intermediate to Senior Backend Python Engineers
 
 ## Part 1 - Code Review
