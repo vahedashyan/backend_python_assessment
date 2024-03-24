@@ -71,6 +71,6 @@ After completing the assessments:
   - Click on "Settings" and then "Manage access".
   - Click on "Invite a collaborator" and enter `mark-asymbl` aka https://github.com/mark-asymbl
 
-- Notify the assessment reviewer via email once you have completed the above steps, providing the link to your private submission repository.
+- Notify us via email once you have completed the above steps, providing the link to your private submission repository.
 
 If you have any questions or encounter any issues during the submission process, please don't hesitate to reach out to us.
